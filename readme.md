@@ -1,0 +1,1 @@
+P5.js express sandbox implemeting the Fourier series visualization, as featured in [coding train](https://www.youtube.com/watch?v=Mm2eYfj0SgA)
